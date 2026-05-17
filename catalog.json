@@ -1,0 +1,794 @@
+[
+    {
+        "name": "Account Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Agency Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apprentice + 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apprentice 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Bank Collections Agent - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Bank Operations Supervisor - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Bilingual Spanish Reservation Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Branch Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Cashier Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Global Skills Development Report",
+        "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": ".NET Framework 4.5",
+        "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": ".NET MVC (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": ".NET MVVM (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": ".NET WCF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": ".NET WPF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": ".NET XAML (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Accounts Payable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Accounts Payable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Accounts Receivable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Accounts Receivable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "ADO.NET (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Adobe Experience Manager (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Adobe Photoshop CC",
+        "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Aeronautical Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Aerospace Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Agile Software Development",
+        "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Agile Testing (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "AI Skills",
+        "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Amazon Web Services (AWS) Development (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Android Development (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Angular 6 (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "AngularJS (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Hadoop (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Hadoop Extensions (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache HBase (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Hive (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Kafka (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Pig (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Apache Spark (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "ASP .NET with C# (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "ASP.NET 4.5",
+        "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Assessment and Development Center Exercises",
+        "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata - Fix (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata - SQL (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Automata (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata Data Science (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata Data Science Pro (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata Front End",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata Pro (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automata Selenium",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automation Anywhere RPA Development (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Automotive Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Basic Biology (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Basic Computer Literacy (Windows 10) (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Basic Statistics (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Biochemistry (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Biotech Lab Techniques (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "BizTalk (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Business Communication (adaptive)",
+        "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Business Communications",
+        "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "C Programming (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "C# Programming (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "C++ Programming (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Cardiology and Diabetes Management (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Ceramic Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Chemical Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Cisco AppDynamics (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Civil Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Cloud Computing (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "COBOL Programming (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Computer Science (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Contact Center Call Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Conversational Multichat Simulation",
+        "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Core Java (Advanced Level) (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Core Java (Entry Level) (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Count Out The Money",
+        "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "CSS3 (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Culinary Skills (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Customer Service Phone Simulation",
+        "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Customer Service Phone Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Cyber Risk (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Entry (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Entry Alphanumeric Split Screen - US",
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Entry Numeric Split Screen - US",
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Entry Ten Key Split Screen",
+        "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Science (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Data Warehousing Concepts",
+        "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Dependability and Safety Instrument (DSI)",
+        "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+        "test_type": "Cognitive",
+        "skills": []
+    },
+    {
+        "name": "Dermatology (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Desktop Support (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Digital Advertising (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Digital Readiness Development Report - IC",
+        "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Digital Readiness Development Report - Manager",
+        "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Docker (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Dojo (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Drupal (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "DSI v1.1 Interpretation Report",
+        "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Econometrics (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Economics (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Electrical and Electronics Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Electrical Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Electronics & Telecommunications Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Electronics and Embedded Systems Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Electronics and Semiconductor Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "English Comprehension (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Enterprise Java Beans (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "Enterprise Leadership Report 1.0",
+        "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Enterprise Leadership Report 2.0",
+        "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Cashier Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Customer Serv-Retail & Contact Center",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Customer Service (General) Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Hotel Front Desk Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Sales Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Entry Level Technical Support Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+        "test_type": "Technical",
+        "skills": []
+    },
+    {
+        "name": "ETL Testing (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Executive Scenarios",
+        "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Executive Scenarios Narrative Report",
+        "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Executive Scenarios Profile Report",
+        "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "ExpressJS (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Filing - Names (R1)",
+        "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Filing - Numbers",
+        "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Financial Accounting (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Financial and Banking Services (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Fire Engineering (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Following Instructions v1 - UK (R1)",
+        "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Following Instructions v1 - US (R2)",
+        "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Food and Beverage Services (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Food Science (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+        "test_type": "General",
+        "skills": []
+    },
+    {
+        "name": "Front Office Management (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+        "test_type": "General",
+        "skills": []
+    }
+]
